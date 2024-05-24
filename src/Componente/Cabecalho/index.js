@@ -4,7 +4,7 @@ import './style.css';
 function Nav() {
     return(
         <div className="nav">
-            <h1>Cabecalho</h1>
+            <h1>Cabecalho1</h1>
         </div>
     );
 
